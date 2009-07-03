@@ -35,6 +35,8 @@
 	<string>dplt</string>
 	<key>LSRequiresCarbon</key>
 	<true/>
+	<key>LSUIElement</key>
+	<string>1</string>
 	<key>WindowState</key>
 	<dict>
 		<key>name</key>
